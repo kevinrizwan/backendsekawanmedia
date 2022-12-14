@@ -1,21 +1,22 @@
 Framework laravel : 7
+</br>
 PHP >= 7.2.5
 
 Penggunaan use db terlebih dahulu, lalu php artisan serve dan menggunakan http://127.0.0.1:8000/
-
+</br></br>
 Website 2 level user ada admin dan tim Acc
-
-adnmin :
+</br>
+</br>adnmin :
 1. Menambahkan pinjaman kendaraan
-Akun 
-email : admin@admin.com
-pw : 123456
+</br>Akun 
+</br>email : admin@admin.com
+</br>pw : 123456
 
 tim acc :
 1. Memproses status pinjaman
-Akun 
-email : timacc@timacc.com
-pw : 123456
+</br>Akun 
+</br>email : timacc@timacc.com
+</br>pw : 123456
 
 Proses :
 1. Data sudah ada seperti data kendaraan dan data pegawai/driver
